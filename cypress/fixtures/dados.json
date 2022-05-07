@@ -1,0 +1,10 @@
+{
+    "pedido": {
+        "restaurant": "DEBUGER KING",
+        "nome": "Jayme Cabral",
+        "email": "jayme@test.com.br",
+        "endereco": "Rua teste",
+        "numero": "123"
+
+    }
+}    

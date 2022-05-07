@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-cypress",
+  "version": "1.0.0",
+  "description": "exemplo feito por mim ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Jayme Cabral",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
